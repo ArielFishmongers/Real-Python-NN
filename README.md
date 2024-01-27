@@ -1,19 +1,21 @@
 # Real-Python-NN
 
-cd - change directory
-../ - one dir up
-mkdir - make new dir
-cp -r <path/file> <location> - copy file
-mv <path/file> <location> - move file
+**Bash commands:**
 
-Git Commands:
+- `cd` - change directory
+- `../` - one dir up 
+- `mkdir` - make new dir  
+- `cp -r <path/file> <location>` - copy file 
+- `mv <path/file> <location>` - move file
 
-git clone <SSHAdress> - clone repo
-git branch -a - check branches
-git checkout <branch_name> - change branch
-git status - check status
-git add <file_name> - add file to commit
-git commit -m "message" - commit file
-git push - change updates git
-git pull - update local
+**Git Commands:**
+
+- `git clone <SSHAdress>` - clone repo
+- `git branch -a` - check branches
+- `git checkout <branch_name>` - change branch
+- `git status` - check status
+- `git add <file_name>` - add file to commit
+- `git commit -m "message"` - commit file
+- `git push` - change updates git
+- `git pull` - update local
  
